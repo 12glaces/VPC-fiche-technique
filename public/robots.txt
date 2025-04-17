@@ -1,0 +1,16 @@
+# robots.txt for https://www.douglas-barlow.com/
+
+# Allow all web crawlers to access everything
+User-agent: *
+Disallow: 
+
+# Sitemap location (optional but recommended for better indexing)
+Sitemap: https://www.yourportfolio.com/sitemap.xml
+
+# Block specific crawlers if needed (uncomment to use)
+# User-agent: BadBot
+# Disallow: /
+
+# Block a specific folder or file from being crawled (optional)
+# Disallow: /private/
+# Disallow: /sensitive-info.html

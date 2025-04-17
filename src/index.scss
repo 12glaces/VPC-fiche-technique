@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth !important;
+    scroll-Amount: 0;
+    overflow-anchor: none;
+    background-color: azure;
+}
+
+body {
+    line-height: 0.5!important;
+}
